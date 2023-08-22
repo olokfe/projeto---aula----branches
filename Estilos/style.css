@@ -16,3 +16,10 @@ main {
    box-shadow: 3px 3px rgba(0, 0, 0, 0.562);
 
 }
+main{
+    background-color: aqua;
+    width: 400px;
+    margin: auto;
+    padding-bottom: 0ch;
+    box-shadow:5px 5px rgba(252, 217, 60, 0.712) ;
+}
